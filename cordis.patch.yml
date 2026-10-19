@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-timer
+      name: 'dsh-sidebar-timer'
